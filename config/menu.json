@@ -1,0 +1,57 @@
+{
+  "main": [
+    {
+      "name": "Inicio",
+      "url": "/"
+    },
+    {
+      "name": "Sou um Dev",
+      "url": "/im-dev"
+    },
+    {
+      "name": "Preciso de Devs",
+      "url": "/contact"
+    },
+    {
+      "name": "FAQ",
+      "url": "/faq"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Sobre",
+      "menu": [
+        {
+          "text": "Saiba mais",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Produto",
+      "menu": [
+        {
+          "text": "Funcionalidades",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Suporte",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Política de Privacidade",
+          "url": "/privacy"
+        },
+        {
+          "text": "Termos e Condições",
+          "url": "/terms"
+        }
+      ]
+    }
+  ]
+}

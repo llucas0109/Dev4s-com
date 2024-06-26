@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Devs4 - Devs4 Anything",
+    "base_url": "/",
+    "favicon": "/images/favicon.svg",
+    "logo": "/images/Devs4.svg",
+    "logo_width": "200",
+    "logo_height": "74",
+    "logo_text": "Devs4"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Comece já",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Desbloqueie o potencial da sua equipe de tecnologia com a Devs4",
+    "copyright": "Devs4 - 2024"
+  },
+
+  "metadata": {
+    "meta_author": "Devs4",
+    "meta_image": "",
+    "meta_description": "Desbloqueie o potencial da sua equipe de tecnologia com a Devs4. Encontre os melhores desenvolvedores e impulsione sua empresa para o sucesso. Contate-nos agora!"
+  }
+}
